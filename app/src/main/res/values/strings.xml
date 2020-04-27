@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Chess</string>
+    <string name="img_description">Chess Logo</string>
+    <string name="img2_description">Chess Logo Lanscape</string>
+    <string name="waiting_description">Waiting Screen Logo</string>
+    <string name="player_1">Player 1 Name</string>
+    <string name="player_2">Player 2 Name</string>
+    <string name="start_game">Start Game</string>
+    <string name="instr_title">Instructions</string>
+    <string name="DoneButton">Done</string>
+    <string name="ResignButton">Resign</string>
+    <string name="welcome_hint">Player\'s turn</string>
+    <string name="WelcomeMessage">Player 1\'s Turn</string>
+    <string name="winner">Winner:</string>
+    <string name="loser">Loser:</string>
+    <string name="gameoverButton">Return to Main Menu</string>
+    <string name="username_prompt">Username</string>
+    <string name="password_prompt">Password</string>
+    <string name="login_button">Login</string>
+    <string name="new_user_button">New user? Click here!</string>
+    <string name="new_username_prompt">Choose a username</string>
+    <string name="new_password_prompt">Choose a password</string>
+    <string name="create_account_button">Create user</string>
+    <string name="chess_image_description">main chess image</string>
+    <string name="remember_me">Remember Me</string>
+
+    <string name="instructions" tools:ignore="UnusedResources">
+        The rook usually looks like a small tower. It moves in a straight line horizontally or vertically for any number of squares.
+        The bishop moves in a straight line diagonally for any number of squares.
+        The queen, the most powerful piece in chess, can move any number of squares in a straight line horizontally, vertically or diagonally.
+        The king can also move in any direction, including diagonally, but it can only move one square at a time.
+        The knight, which usually looks like a horse, moves in an irregular, L-shaped pattern. From the center of the board, the knight can move to eight different squares. Though the knight can leap over other pieces, it doesn\'t capture pieces it jumps over; it only captures a piece on a square it lands on.
+        Pawns are the shortest and weakest pieces in chess. Pawns are also the only pieces that move one way, but capture in another fashion. Unlike other pieces, pawns can only move forward, not backward. A pawn can only move directly forward one square at a time unless it is still on the square on which it began the game; if it is the pawn\'s first move, it can move one or two squares directly forward.
+        A pawn cannot capture a piece directly in front of it.
+        Pawns can only capture a piece by moving one square forward diagonally.
+
+        When a player\'s king is under attack and threatened with capture, you say that the king is in check. When in check, that player must take action to avoid having his king captured by moving the king, capturing the attacking piece, or–except in the case of a knight check–blocking the attack.
+
+        You win the game via checkmate, where you attack your opponent\'s king in such a way that he cannot avoid being captured. To win the game, the victorious player doesn\'t actually capture the enemy king; once capture is inevitable, checkmate has occurred and the game is over. A player who knows defeat is inevitable may also resign the game rather than wait to be checkmated.
+    </string>
+</resources>
